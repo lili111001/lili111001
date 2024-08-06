@@ -2,14 +2,14 @@
 
 <h2>👩‍💻Software Development Projects:</h2>
 
-- <b>Full Stack Web App ()</b>
-  - 
-- <b>Java project (Desktop Applications)</b>
+- <b>Full Stack Web App (vuejs, springboot, postgreSQL)</b>
+  - [Corn Crop Management App](https://github.com/lili111001/corn-crop-management/tree/main) <i>(possibility of adding functionalities to manage other types of crops (scalable))</i> 
+- <b>Java projects (Desktop Applications with plain-vanilla java)</b>
   - 
 - <b>Javascript</b>
   - 
 - <b>Python</b>
-  -
+  - 
 
 <h2>🛡️Cybersecurity Projects:</h2>
 
