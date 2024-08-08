@@ -1,5 +1,7 @@
 <h1>Hi, I'm Liliana!</h1>
 
+Join me as I add some of the projects I've been working on down below, constructive feedback gladly apreciated, at the end of the day I'm here to learn!
+
 <h2>👩‍💻Software Development Projects:</h2>
 
 - <b>Full Stack Web App (vuejs, springboot, postgreSQL)</b>
