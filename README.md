@@ -7,7 +7,7 @@ Join me as I add some of the projects I've been working on down below, construct
 - <b>Full Stack Web App (vuejs, springboot, postgreSQL)</b>
   - [Corn Crop Management App](https://github.com/lili111001/corn-crop-management/tree/main) <i>(possibility of adding functionalities to manage other types of crops (scalable))</i> 
 - <b>Java projects (Desktop Applications with plain-vanilla java)</b>
-  - Data Structures exercises
+  - [Data Structures exercises](https://github.com/lili111001/data-structures-exercises)
 - <b>Javascript</b>
   - 
 - <b>Python</b>
