@@ -11,7 +11,7 @@ Join me as I add some of the projects I've been working on down below, construct
 - <b>Javascript</b>
   - 
 - <b>Python</b>
-  - 
+  - [A montecarlo problem](https://github.com/lili195/un-problema-montecarlo.git)
 
 <h2>🛡️Cybersecurity Projects:</h2>
 
