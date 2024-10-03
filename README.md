@@ -2,6 +2,8 @@
 
 Join me as I add some of the projects I've been working on down below, constructive feedback gladly apreciated, at the end of the day I'm here to help and learn!
 
+My other github account is https://github.com/lili195 :D
+
 <h2>👩‍💻Software Development Projects:</h2>
 
 - <b>Full Stack Web App (vuejs, springboot, postgreSQL)</b>
