@@ -1,8 +1,6 @@
 <h1>Hi, I'm Liliana!</h1>
 
-Join me as I add some of the projects I've been working on down below, constructive feedback gladly apreciated, at the end of the day I'm here to help and learn!
-
-My other github account is https://github.com/lili195 :D
+Join me as I add some of the projects I've been working on in this account and my [other](https://github.com/lili195) github account down below, constructive feedback gladly apreciated, at the end of the day I'm here to help and learn!
 
 <h2>👩‍💻Software Development Projects:</h2>
 
