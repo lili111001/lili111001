@@ -5,17 +5,16 @@ Join me as I add some of the projects I've been working on in this account and m
 <h2>👩‍💻Software Development Projects:</h2>
 
 - <b>Full Stack Web App (vuejs, springboot, postgreSQL)</b>
-  - [Corn Crop Management App](https://github.com/lili111001/corn-crop-management/tree/main) (ON PAUSE) <i> (possibility of adding functionalities to manage other types of crops (scalable))</i> 
+  - [Corn Crop Management App](https://github.com/lili111001/corn-crop-management/tree/main) (<b>currently working on</b>) <i> (possibility of adding functionalities to manage other types of crops (scalable))</i> 
 - <b>Java projects (Desktop Applications with plain-vanilla java)</b>
-  - [Data Structures exercises](https://github.com/lili111001/data-structures-exercises) (ON PAUSE)
+  - [Data Structures exercises](https://github.com/lili111001/data-structures-exercises) (<b>currently working on</b>)
 - <b>Python</b>
-  - [A montecarlo problem](https://github.com/lili195/un-problema-montecarlo.git)
+  - [A montecarlo problem](https://github.com/lili195/un-problema-montecarlo.git) this is a program to simulate an archery game using diferent types of statistical distributions
  
 - <b>Flutter</b>
-  - [A nutrition mobile app!](https://github.com/pilicorredor/Calorie_Count_Movile), this is a project I'm <i>currently</i> working on with my colleagues :D
+  - [A nutrition mobile app!](https://github.com/pilicorredor/Calorie_Count_Movile), this is a project I'm <i>currently working on</i> with my colleagues :D
 
 <h2>🛡️Cybersecurity Projects:</h2>
-
 - 
 
 <h2> 🤳 Connect with me:</h2>
