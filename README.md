@@ -14,7 +14,7 @@ Join me as I add some of the projects I've been working on in this account and m
   - [A montecarlo problem](https://github.com/lili195/un-problema-montecarlo.git)
  
 - <b>Flutter</b>
-  - [A nutrition app!](https://github.com/pilicorredor/Calorie_Count_Movile), this is project I'm currently working on with my colleagues
+  - [A nutrition mobile app!](https://github.com/pilicorredor/Calorie_Count_Movile), this is a project I'm currently working on with my colleagues :D
 
 <h2>🛡️Cybersecurity Projects:</h2>
 
